@@ -1,0 +1,19 @@
+[project]
+name = "lesson7-files"
+version = "0.1.0"
+description = "Ecommerce data analysis project using Python and Jupyter notebooks"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas>=1.5.0",
+    "numpy>=1.21.0",
+    "matplotlib>=3.5.0",
+    "seaborn>=0.11.0",
+    "plotly>=5.0.0",
+    "streamlit>=1.28.0",
+    "jupyter>=1.0.0",
+    "ipykernel>=6.0.0",
+    "playwright>=1.55.0",
+    "pytest>=8.4.2",
+    "pytest-asyncio>=1.2.0",
+]
